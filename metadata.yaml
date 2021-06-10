@@ -1,0 +1,34 @@
+_repo: Philosophumena-Volume-I_65478
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Legge, George Francis
+    gutenberg_agent_id: '53370'
+    url: http://www.gutenberg.org/2009/agents/53370
+creator:
+  author:
+    agent_name: Hippolytus, Antipope
+    aliases:
+    - Hippolytos, Antipope
+    - Hippolytus, of Porto, Antipope
+    - Hippolytus, Saint
+    - Hippolytus, Concordia, Antipope
+    - Ippolito, di Roma, Antipope
+    - Hippolytus, of Rome, Antipope
+    deathdate: 235
+    gutenberg_agent_id: '51516'
+    url: http://www.gutenberg.org/2009/agents/51516
+    wikipedia: https://en.wikipedia.org/wiki/Hippolytus_of_Rome
+description: ''
+gutenberg_issued: '2021-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65478'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Philosophumena, Volume I
+url: http://www.gutenberg.org/ebooks/65478
